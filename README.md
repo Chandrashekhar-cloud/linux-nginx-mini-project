@@ -76,7 +76,7 @@ Basic troubleshooting follows check service → check port → verify logs
 Outcome
 ✅ Successfully installed and configured Nginx
 ✅ Changed default port from 80 to 8080
-✅ Verified service using command-line tools
+✅ Verified service using command-line tools.
 
 
 Project Type
