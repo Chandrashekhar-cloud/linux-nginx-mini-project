@@ -1,4 +1,4 @@
-Linux Mini Project – Nginx Port Configuration & Verification
+Linux Mini Project – Nginx Port Configuration & Verification.
 
 Project Overview
 
