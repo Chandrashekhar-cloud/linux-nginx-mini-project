@@ -8,7 +8,7 @@ The goal is to show hands-on understanding of:
 Linux services (systemctl)
 Configuration files
 Networking ports
-Basic troubleshooting
+Basic troubleshooting..
 Tools & Technologies
 OS: Linux (Ubuntu)
 Web Server: Nginx
