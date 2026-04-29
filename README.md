@@ -80,4 +80,4 @@ Outcome
 
 
 Project Type
-Linux / SRE / DevOps – Beginner Mini Project..
+Linux / SRE / DevOps – Beginner Mini Project
