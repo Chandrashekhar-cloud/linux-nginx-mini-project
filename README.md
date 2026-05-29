@@ -139,7 +139,7 @@ Successfully received the Nginx welcome page response.
 - Configure reverse proxy
 - Add HTTPS with SSL/TLS
 - Deploy on AWS EC2
-- Dockerize the Nginx server
+- Dockerize the Nginx server.
 
 ---
 
