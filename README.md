@@ -145,7 +145,6 @@ Successfully received the Nginx welcome page response.
 
 # 🔗 GitHub Repository
 ## 👉 https://github.com/Chandrashekhar-cloud/linux-nginx-mini-project.
-
 ---
 
 # 👨‍💻 Author
