@@ -148,6 +148,6 @@ Successfully received the Nginx welcome page response.
 ---
 
 # 👨‍💻 Author
-### Chandrashekhar H S.
+### Chandrashekhar H S
 
 Aspiring DevOps | Cloud | SRE Engineer 🚀
