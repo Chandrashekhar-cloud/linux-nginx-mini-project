@@ -1,4 +1,4 @@
-# 🚀 Linux Nginx Mini Project
+# 🚀 Linux Nginx Mini Project 
 
 ## 📌 Project Overview
 This project demonstrates the installation, configuration, and management of an Nginx web server on Linux.
